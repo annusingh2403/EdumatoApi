@@ -1,0 +1,27 @@
+{
+  "name": "assignment-5-annusingh2403",
+  "version": "1.0.0",
+  "description": "api for restaurant",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edureka-intership/assignment-5-annusingh2403.git"
+  },
+  "author": "annu singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edureka-intership/assignment-5-annusingh2403/issues"
+  },
+  "homepage": "https://github.com/edureka-intership/assignment-5-annusingh2403#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
